@@ -1,0 +1,1 @@
+Carrello = array bidimensionale con prodotti product.name product.price
